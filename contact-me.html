@@ -7,7 +7,7 @@
 </head>
 <body>
     <main>
-        <form action="/submit.php"> <!-- kenapa tidak direct ke halaman submit? -->
+        <form action="/submit.php">     
             <fieldset>
                 <legend>Contact Me</legend>
                     <label for="name">Full Name:</label>
@@ -15,7 +15,8 @@
                     <label for="email">Email:</label>
                     <input type="email" id="email" name="email" required><br><br>
                     <label for="message">Message:</label>
-                    <textarea id="message" name="message" rows="4" cols="50" maxlength="200" required></textarea>
+                    <textarea id="message" name="message" rows="4" cols="50" maxlength="200" required></textarea><br>
+                    
                     <p>Maksimal 200 karakter</p>
                     <input type="submit" value="Submit">
             </fieldset>
