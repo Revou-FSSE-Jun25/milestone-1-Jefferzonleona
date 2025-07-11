@@ -24,3 +24,21 @@ This website using these tools and technology:
 
 
 ## Instruction of use
+This website is intended to showcase my personal resume and portfolio.  
+Here’s how users can interact with the website:
+
+1. **Explore Sections**  
+   Navigate through different sections of the website:
+   - **Home**: Introduction and overview.
+   - **About Me**: Information about my background, education, and skills.
+   - **Projects**: View my past and future projects.
+   - **Contact**: A form to reach out directly to me.
+
+2. **Using the Contact Form**  
+   - Scroll to the **Contact Section**.
+   - Fill in the required fields:
+     - Name
+     - Email
+     - Message
+   - Click the **Submit** button to send your message.
+   - I will receive your message and respond as soon as possible.
