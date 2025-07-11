@@ -25,7 +25,7 @@ This website using these tools and technology:
 
 ## Instruction of use
 This website is intended to showcase my personal resume and portfolio.
-[Link to website:](https://revou-fsse-jun25.github.io/milestone-1-Jefferzonleona/)
+Link to website https://revou-fsse-jun25.github.io/milestone-1-Jefferzonleona/
 
 Here’s how users can interact with the website:
 1. **Explore Sections**  
