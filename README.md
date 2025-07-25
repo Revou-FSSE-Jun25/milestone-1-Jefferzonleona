@@ -18,13 +18,14 @@ This website act as online resume of me, consist of:
 ## Technology used
 This website using these tools and technology:
 - VS Code : To do the coding
-- HTML : Semantic HTML for website structure
-- CSS : For styling website (after learning module 2)
+- HTML5 : Semantic HTML for website structure
+- Tailwind CSS : For styling website
 - Github : Deployment using personal website hosting on Github pages
+- Icon Image : https://fontawesome.com/
 
 
 ## Instruction of use
-This website is intended to showcase my personal resume and portfolio.
+This website is intended to showcase my personal resume and portfolio.<br>
 Link to website https://revou-fsse-jun25.github.io/milestone-1-Jefferzonleona/
 
 Here’s how users can interact with the website:
